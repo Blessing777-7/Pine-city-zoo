@@ -23,7 +23,7 @@ body{
 
 #tabs-tops{
   position: fixed;
-  top: 80px;
+  padding-top: 80px;
   left: 0;
   z-index: 500;
   width: 100%;
@@ -48,7 +48,7 @@ body{
 
 #tabs-bottom{
   position: fixed;
-  top: 0;
+  padding-bottom: 0;
   left: 0;
   z-index: 500;
   width: 100%;
